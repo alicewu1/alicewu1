@@ -1,4 +1,4 @@
-![My Banner Image](gh_banner_3.png "My Banner Image")s
+![My Banner Image](gh_banner_3.png "My Banner Image")
 
 ## Hey there! 
 -------
