@@ -21,11 +21,8 @@ Here's a list of things I keep myself busy with:
 + I hope to run a marathon one day 🏃‍♀️
 </details>
 
-<br>
 
 ------
-<br>
-
 ## 📌 Currently Working on:
 ![pinned_repo](https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=crontab)
 
@@ -38,7 +35,7 @@ Here's a list of things I keep myself busy with:
 
 <br>
 
-### 💼 Skills 
+## 🧰 Skills 
 -----
 ![](https://img.shields.io/badge/Code-Python-9cf)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
