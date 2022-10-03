@@ -1,0 +1,15 @@
+images/
+images/*
+*.png
+.png
+
+alicewu1/images
+alicewu1/images/**
+alicewu1/images/**/*
+alicewu1/images/*
+
+/images
+/images/**
+/images/**/*
+/images/*
+
