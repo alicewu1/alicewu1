@@ -1,19 +1,29 @@
 ![My Banner Image](gh_banner_3.png "My Banner Image")
 
-## Hey there! 
+## **Hey there!**
 
 ![](https://komarev.com/ghpvc/?username=alicewu1&color=ff69b4)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alice-wu06/)
 
 
+- 🎓 Currently: M.S. Applied Health Informatics Student at Stony Brook University
+- 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP
+- ⭐I'm passionate about: coding, data analytics, and data science
+- 📫 How to reach me: LinkedIn
+
+<br>
+
 ## 📌 Currently Working on:
 ![pinned_repo](https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=crontab)
+
+<br>
 
 ## 📈 GitHub Stats
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicewu1&layout=compact&show_icons=true&theme=tokyonight)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=alicewu1&show_icons=true&theme=tokyonight)
 
+<br>
 
 ### 💼 Skills 
 -----
@@ -23,9 +33,11 @@
 ![](https://img.shields.io/badge/Code-HTML-9cf)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Figma-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Qualtrics-9cf)
 ![](https://img.shields.io/badge/Tools-REDcap-9cf)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
 
 
 
