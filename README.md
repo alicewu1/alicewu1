@@ -11,13 +11,17 @@ Here's a list of things I keep myself busy with:
 - ☀️ I'm passionate about: coding, data analytics, and data science
 - 📫 Where to find me: LinkedIn
 
+<br>
+
 <details>
-<summary> Some other fun facts about me-e-e <summary>
+<summary> Some other fun facts about me-e-e </summary>
 
 + Been recently into 3D modeling and 🖨️ 3D printing!
 + I am a huge foodie and love to find new hole-in-the-wall restaurants 🍽️
 + I hope to run a marathon one day 🏃‍♀️
 </details>
+
+<br>
 
 ------
 <br>
