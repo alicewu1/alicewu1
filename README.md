@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Qualtrics-9cf)
 ![](https://img.shields.io/badge/Tools-REDcap-9cf)
-![](https://img.shields.io/badge/Style-VSCode-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
 
 
