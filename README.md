@@ -1,25 +1,18 @@
 ![My Banner Image](gh_banner_3.png "My Banner Image")
 
 ## Hey there! 
--------
 
 ![](https://komarev.com/ghpvc/?username=alicewu1&color=ff69b4)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alice-wu06/)
 
 
 ## 📌 Currently Working on:
-------
 ![pinned_repo](https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=crontab)
 
 ## 📈 GitHub Stats
-------
-
-
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicewu1&layout=compact&show_icons=true&theme=tokyonight)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=alicewu1&show_icons=true&theme=tokyonight)
-
-
 
 
 ### 💼 Skills 
