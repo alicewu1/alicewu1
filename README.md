@@ -5,12 +5,21 @@
 ![](https://komarev.com/ghpvc/?username=alicewu1&color=ff69b4)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alice-wu06/)
 
-
-- 🎓 Currently: M.S. Applied Health Informatics Student at Stony Brook University
+Here's a list of things I keep myself busy with:
+- 🎓 Education: M.S. Applied Health Informatics Student at Stony Brook University
 - 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP
-- ⭐I'm passionate about: coding, data analytics, and data science
-- 📫 How to reach me: LinkedIn
+- ☀️ I'm passionate about: coding, data analytics, and data science
+- 📫 Where to find me: LinkedIn
 
+<details>
+<summary> Some other fun facts about me-e-e <summary>
+
++ Been recently into 3D modeling and 🖨️ 3D printing!
++ I am a huge foodie and love to find new hole-in-the-wall restaurants 🍽️
++ I hope to run a marathon one day 🏃‍♀️
+</details>
+
+------
 <br>
 
 ## 📌 Currently Working on:
