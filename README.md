@@ -24,7 +24,7 @@ Here's a list of things I keep myself busy with:
 
 ------
 ## 📌 Currently Working on:
-![pinned_repo](https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=musql-selfmanaged)
+![pinned_repo](https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=mysql-selfmanaged)
 
 <br>
 
