@@ -24,7 +24,9 @@ Here's a list of things I keep myself busy with:
 
 ------
 ## 📌 Currently Working on:
-![pinned_repo]([https://github.com/alicewu1/mysql-cloudmanaged](https://github.com/alicewu1/mysql-cloudmanaged))
+<a href="[https://github.com/alicewu1/mysql-cloudmanaged](https://github.com/alicewu1/mysql-cloudmanaged)">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=mysql-cloudmanaged&" />
+</a>
 
 <br>
 
