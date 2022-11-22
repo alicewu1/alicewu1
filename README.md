@@ -25,7 +25,7 @@ Here's a list of things I keep myself busy with:
 ------
 ## 📌 Currently Working on:
 <a href="[https://github.com/alicewu1/pssp-enhancements](https://github.com/alicewu1/pssp-enhancements)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=pssp-enhanements&" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=pssp-enhancements&" />
 </a>
 
 <br>
