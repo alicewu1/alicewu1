@@ -31,9 +31,7 @@ Here's a list of things I keep myself busy with:
 <br>
 
 ## 📈 GitHub Stats
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicewu1&layout=compact&show_icons=true&theme=tokyonight)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=alicewu1&show_icons=true&theme=tokyonight)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicewu1&layout=compact&show_icons=true&theme=tokyonight) ![github stats](https://github-readme-stats.vercel.app/api?username=alicewu1&show_icons=true&theme=tokyonight)
 
 <br>
 
@@ -41,6 +39,7 @@ Here's a list of things I keep myself busy with:
 -----
 ![](https://img.shields.io/badge/Code-Python-9cf)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-9cf)
 ![](https://img.shields.io/badge/Code-CSS-9cf)
 ![](https://img.shields.io/badge/Code-HTML-9cf)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -49,6 +48,8 @@ Here's a list of things I keep myself busy with:
 ![](https://img.shields.io/badge/Tools-Qualtrics-9cf)
 ![](https://img.shields.io/badge/Tools-REDcap-9cf)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-R%20Studio-brightgreen)
+
 
 
 
