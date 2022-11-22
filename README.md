@@ -7,8 +7,8 @@
 
 Here's a list of things I keep myself busy with:
 - 🎓 Education: M.S. Applied Health Informatics Student at Stony Brook University
-- 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP
-- ☀️ I'm passionate about: coding, data analytics, and data science
+- 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP, HTML-CSS
+- ☀️ I'm passionate about: coding, data analytics/data science, and process improvement
 - 📫 Where to find me: LinkedIn
 
 <br>
@@ -24,8 +24,8 @@ Here's a list of things I keep myself busy with:
 
 ------
 ## 📌 Currently Working on:
-<a href="[https://github.com/alicewu1/mysql-cloudmanaged](https://github.com/alicewu1/mysql-cloudmanaged)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=mysql-cloudmanaged&" />
+<a href="[https://github.com/alicewu1/pssp-enhancements](https://github.com/alicewu1/pssp-enhancements)">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alicewu1&repo=pssp-enhanements&" />
 </a>
 
 <br>
@@ -55,10 +55,8 @@ Here's a list of things I keep myself busy with:
 
 
 <!--
-**alicewu1/alicewu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- Currently: M.S. Applied Health Informatics Student at Stony Brook University
+- Currently:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
